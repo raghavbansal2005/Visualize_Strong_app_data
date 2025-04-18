@@ -8,7 +8,7 @@ python3 server.py
 ```
 In a seperate terminal naviagate to the react folder and start the react app.
 ```
-/react/graph-d3-app
+cd react/graph-d3-app
 npm start
 ```
 
